@@ -1,1 +1,1 @@
-print("Day")
+print("Good DAY")
